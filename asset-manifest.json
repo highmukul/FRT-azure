@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/FRT-azure/static/css/main.e6c13ad2.css",
+    "main.js": "/FRT-azure/static/js/main.ad6833a7.js",
+    "reactPlayerYouTube.js": "/FRT-azure/static/js/reactPlayerYouTube.e9123198.chunk.js",
+    "reactPlayerSoundCloud.js": "/FRT-azure/static/js/reactPlayerSoundCloud.4b37e6df.chunk.js",
+    "reactPlayerVimeo.js": "/FRT-azure/static/js/reactPlayerVimeo.e4e6de3b.chunk.js",
+    "reactPlayerMux.js": "/FRT-azure/static/js/reactPlayerMux.efdb37f4.chunk.js",
+    "reactPlayerFacebook.js": "/FRT-azure/static/js/reactPlayerFacebook.f36c2f21.chunk.js",
+    "reactPlayerStreamable.js": "/FRT-azure/static/js/reactPlayerStreamable.26784538.chunk.js",
+    "reactPlayerWistia.js": "/FRT-azure/static/js/reactPlayerWistia.88efe166.chunk.js",
+    "reactPlayerTwitch.js": "/FRT-azure/static/js/reactPlayerTwitch.e8550706.chunk.js",
+    "reactPlayerDailyMotion.js": "/FRT-azure/static/js/reactPlayerDailyMotion.530cc185.chunk.js",
+    "reactPlayerMixcloud.js": "/FRT-azure/static/js/reactPlayerMixcloud.cb9063ff.chunk.js",
+    "reactPlayerVidyard.js": "/FRT-azure/static/js/reactPlayerVidyard.2721750d.chunk.js",
+    "reactPlayerKaltura.js": "/FRT-azure/static/js/reactPlayerKaltura.556e30ad.chunk.js",
+    "reactPlayerFilePlayer.js": "/FRT-azure/static/js/reactPlayerFilePlayer.dba17544.chunk.js",
+    "reactPlayerPreview.js": "/FRT-azure/static/js/reactPlayerPreview.f91388df.chunk.js",
+    "static/js/453.09940128.chunk.js": "/FRT-azure/static/js/453.09940128.chunk.js",
+    "index.html": "/FRT-azure/index.html",
+    "main.e6c13ad2.css.map": "/FRT-azure/static/css/main.e6c13ad2.css.map",
+    "main.ad6833a7.js.map": "/FRT-azure/static/js/main.ad6833a7.js.map",
+    "reactPlayerYouTube.e9123198.chunk.js.map": "/FRT-azure/static/js/reactPlayerYouTube.e9123198.chunk.js.map",
+    "reactPlayerSoundCloud.4b37e6df.chunk.js.map": "/FRT-azure/static/js/reactPlayerSoundCloud.4b37e6df.chunk.js.map",
+    "reactPlayerVimeo.e4e6de3b.chunk.js.map": "/FRT-azure/static/js/reactPlayerVimeo.e4e6de3b.chunk.js.map",
+    "reactPlayerMux.efdb37f4.chunk.js.map": "/FRT-azure/static/js/reactPlayerMux.efdb37f4.chunk.js.map",
+    "reactPlayerFacebook.f36c2f21.chunk.js.map": "/FRT-azure/static/js/reactPlayerFacebook.f36c2f21.chunk.js.map",
+    "reactPlayerStreamable.26784538.chunk.js.map": "/FRT-azure/static/js/reactPlayerStreamable.26784538.chunk.js.map",
+    "reactPlayerWistia.88efe166.chunk.js.map": "/FRT-azure/static/js/reactPlayerWistia.88efe166.chunk.js.map",
+    "reactPlayerTwitch.e8550706.chunk.js.map": "/FRT-azure/static/js/reactPlayerTwitch.e8550706.chunk.js.map",
+    "reactPlayerDailyMotion.530cc185.chunk.js.map": "/FRT-azure/static/js/reactPlayerDailyMotion.530cc185.chunk.js.map",
+    "reactPlayerMixcloud.cb9063ff.chunk.js.map": "/FRT-azure/static/js/reactPlayerMixcloud.cb9063ff.chunk.js.map",
+    "reactPlayerVidyard.2721750d.chunk.js.map": "/FRT-azure/static/js/reactPlayerVidyard.2721750d.chunk.js.map",
+    "reactPlayerKaltura.556e30ad.chunk.js.map": "/FRT-azure/static/js/reactPlayerKaltura.556e30ad.chunk.js.map",
+    "reactPlayerFilePlayer.dba17544.chunk.js.map": "/FRT-azure/static/js/reactPlayerFilePlayer.dba17544.chunk.js.map",
+    "reactPlayerPreview.f91388df.chunk.js.map": "/FRT-azure/static/js/reactPlayerPreview.f91388df.chunk.js.map",
+    "453.09940128.chunk.js.map": "/FRT-azure/static/js/453.09940128.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ad6833a7.js"
+  ]
+}
